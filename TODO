@@ -1,0 +1,18 @@
+1 -  DB1 models										V
+2 -  Testes nos models de DB1						V
+3 -  DB2 models              						V
+4 -  Testes nos models de DB2						V
+5 -  DB1Controller									V
+6 -  Testes para DB1Controller						V
+7 -  DB2Controller									V
+8 -  Testes para DB2Controller						V
+9 -  AuthenticationController						V
+10 - Testes para AuthenticationController			V
+11 - AppController                                  V
+12 - Testes para AppController                      V
+13 - Api
+14 - Testes para Api
+15 - Frontend para clientes
+16 - Testes para o frontend dos clientes
+17 - Frontend para estabelecimentos
+18 - Testes para o frontend dos estabelecimentos
